@@ -43,6 +43,6 @@ pkg install python git -y
 pip install requests dnspython colorama pysocks
 pip install bs4
 pkg install tor -y
-
-
-
+pkg install unzip -y
+termux-setup-storage
+git clone https://github.com/Ahmedbudul/Hubiye.git
