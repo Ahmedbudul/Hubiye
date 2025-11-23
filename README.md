@@ -28,6 +28,12 @@ Waxaa lagu dhisay Python, wuxuuna si buuxda uga shaqeeyaa **Termux, Linux & Wind
 *(Ku beddel sawir markaad repo-ga galiso)*
 ---
 
+🛡️ Legal Disclaimer
+
+Project-kan waa waxbarasho iyo ethical security testing oo keliya.
+Adigu ayaad mas’uul ka tahay sida aad u isticmaasho.
+Ha baarin website aadan lahayn ama aadan oggolaansho ka haysan.
+
 ## 📦 Installation
 
 ### Termux
