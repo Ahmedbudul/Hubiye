@@ -1,7 +1,7 @@
 # Hubiye
 # 🔍 Web Scanner Pro — By Dv.Ahmed
 
-**Web Scanner Pro** waa qalab Ethical Hacking ah oo loogu talagalay in lagu baaro amniga websaydhada, API-yada, subdomains-ka, ports-yada iyo in lagu barto daciifnimada sida XSS & SQL Injection.  
+**Web Scanner Pro** waa qalab Ethical Hacking ah oo loogu talagalay in lagu baaro amniga websiteyada, API-yada, subdomains-ka, ports-yada iyo in lagu barto daciifnimada sida XSS & SQL Injection.  
 Waxaa lagu dhisay Python, wuxuuna si buuxda uga shaqeeyaa **Termux, Linux & Windows**.
 
 🚨 *Kaliya loogu talagalay ujeedooyin waxbarasho & security testing sharci ah.*
